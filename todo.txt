@@ -1,0 +1,11 @@
+TODO:
+
+- Linear regression
+    - Single variable
+    - Multi variable
+- Logistic regression
+- Decision tree
+    - Random forest
+- Neural network
+    - CNN
+    - RNN
